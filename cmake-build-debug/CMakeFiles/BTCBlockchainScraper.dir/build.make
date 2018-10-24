@@ -81,40 +81,40 @@ CMakeFiles/BTCBlockchainScraper.dir/main.cpp.o.provides: CMakeFiles/BTCBlockchai
 CMakeFiles/BTCBlockchainScraper.dir/main.cpp.o.provides.build: CMakeFiles/BTCBlockchainScraper.dir/main.cpp.o
 
 
-CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.o: CMakeFiles/BTCBlockchainScraper.dir/flags.make
-CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.o: ../BitcoinScraper.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kevin/CLionProjects/BTCBlockchainScraper/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.o -c /home/kevin/CLionProjects/BTCBlockchainScraper/BitcoinScraper.cpp
+CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.o: CMakeFiles/BTCBlockchainScraper.dir/flags.make
+CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.o: ../Scraper.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kevin/CLionProjects/BTCBlockchainScraper/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.o -c /home/kevin/CLionProjects/BTCBlockchainScraper/Scraper.cpp
 
-CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kevin/CLionProjects/BTCBlockchainScraper/BitcoinScraper.cpp > CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.i
+CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kevin/CLionProjects/BTCBlockchainScraper/Scraper.cpp > CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.i
 
-CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kevin/CLionProjects/BTCBlockchainScraper/BitcoinScraper.cpp -o CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.s
+CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kevin/CLionProjects/BTCBlockchainScraper/Scraper.cpp -o CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.s
 
-CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.o.requires:
+CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.o.requires:
 
-.PHONY : CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.o.requires
+.PHONY : CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.o.requires
 
-CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.o.provides: CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.o.requires
-	$(MAKE) -f CMakeFiles/BTCBlockchainScraper.dir/build.make CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.o.provides.build
-.PHONY : CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.o.provides
+CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.o.provides: CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.o.requires
+	$(MAKE) -f CMakeFiles/BTCBlockchainScraper.dir/build.make CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.o.provides.build
+.PHONY : CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.o.provides
 
-CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.o.provides.build: CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.o
+CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.o.provides.build: CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.o
 
 
 # Object files for target BTCBlockchainScraper
 BTCBlockchainScraper_OBJECTS = \
 "CMakeFiles/BTCBlockchainScraper.dir/main.cpp.o" \
-"CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.o"
+"CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.o"
 
 # External object files for target BTCBlockchainScraper
 BTCBlockchainScraper_EXTERNAL_OBJECTS =
 
 BTCBlockchainScraper: CMakeFiles/BTCBlockchainScraper.dir/main.cpp.o
-BTCBlockchainScraper: CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.o
+BTCBlockchainScraper: CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.o
 BTCBlockchainScraper: CMakeFiles/BTCBlockchainScraper.dir/build.make
 BTCBlockchainScraper: CMakeFiles/BTCBlockchainScraper.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/kevin/CLionProjects/BTCBlockchainScraper/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable BTCBlockchainScraper"
@@ -126,7 +126,7 @@ CMakeFiles/BTCBlockchainScraper.dir/build: BTCBlockchainScraper
 .PHONY : CMakeFiles/BTCBlockchainScraper.dir/build
 
 CMakeFiles/BTCBlockchainScraper.dir/requires: CMakeFiles/BTCBlockchainScraper.dir/main.cpp.o.requires
-CMakeFiles/BTCBlockchainScraper.dir/requires: CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.o.requires
+CMakeFiles/BTCBlockchainScraper.dir/requires: CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.o.requires
 
 .PHONY : CMakeFiles/BTCBlockchainScraper.dir/requires
 

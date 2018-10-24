@@ -1,4 +1,4 @@
-#include "BitcoinScraper.h"
+#include "Scraper.h"
 
 #include <iostream>
 #include <pqxx/pqxx>

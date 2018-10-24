@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/BTCBlockchainScraper.dir/main.cpp.o"
-  "CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.o"
+  "CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.o"
   "BTCBlockchainScraper.pdb"
   "BTCBlockchainScraper"
 )

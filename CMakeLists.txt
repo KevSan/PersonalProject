@@ -5,5 +5,5 @@ project(BTCBlockchainScraper)
 set(CMAKE_CXX_STANDARD 11)
 
 
-add_executable(BTCBlockchainScraper main.cpp BitcoinScraper.cpp BitcoinScraper.h)
+add_executable(BTCBlockchainScraper main.cpp Scraper.cpp Scraper.h)
 

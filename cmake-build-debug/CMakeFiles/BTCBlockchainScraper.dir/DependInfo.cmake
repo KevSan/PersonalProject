@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/kevin/CLionProjects/BTCBlockchainScraper/BitcoinScraper.cpp" "/home/kevin/CLionProjects/BTCBlockchainScraper/cmake-build-debug/CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.o"
+  "/home/kevin/CLionProjects/BTCBlockchainScraper/Scraper.cpp" "/home/kevin/CLionProjects/BTCBlockchainScraper/cmake-build-debug/CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.o"
   "/home/kevin/CLionProjects/BTCBlockchainScraper/main.cpp" "/home/kevin/CLionProjects/BTCBlockchainScraper/cmake-build-debug/CMakeFiles/BTCBlockchainScraper.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

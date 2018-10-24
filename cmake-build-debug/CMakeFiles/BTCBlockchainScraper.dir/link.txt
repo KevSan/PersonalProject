@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/BTCBlockchainScraper.dir/main.cpp.o CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.o  -o BTCBlockchainScraper 
+/usr/bin/c++  -g   CMakeFiles/BTCBlockchainScraper.dir/main.cpp.o CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.o  -o BTCBlockchainScraper 

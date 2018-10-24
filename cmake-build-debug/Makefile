@@ -123,32 +123,32 @@ BTCBlockchainScraper/fast:
 	$(MAKE) -f CMakeFiles/BTCBlockchainScraper.dir/build.make CMakeFiles/BTCBlockchainScraper.dir/build
 .PHONY : BTCBlockchainScraper/fast
 
-BitcoinScraper.o: BitcoinScraper.cpp.o
+Scraper.o: Scraper.cpp.o
 
-.PHONY : BitcoinScraper.o
+.PHONY : Scraper.o
 
 # target to build an object file
-BitcoinScraper.cpp.o:
-	$(MAKE) -f CMakeFiles/BTCBlockchainScraper.dir/build.make CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.o
-.PHONY : BitcoinScraper.cpp.o
+Scraper.cpp.o:
+	$(MAKE) -f CMakeFiles/BTCBlockchainScraper.dir/build.make CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.o
+.PHONY : Scraper.cpp.o
 
-BitcoinScraper.i: BitcoinScraper.cpp.i
+Scraper.i: Scraper.cpp.i
 
-.PHONY : BitcoinScraper.i
+.PHONY : Scraper.i
 
 # target to preprocess a source file
-BitcoinScraper.cpp.i:
-	$(MAKE) -f CMakeFiles/BTCBlockchainScraper.dir/build.make CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.i
-.PHONY : BitcoinScraper.cpp.i
+Scraper.cpp.i:
+	$(MAKE) -f CMakeFiles/BTCBlockchainScraper.dir/build.make CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.i
+.PHONY : Scraper.cpp.i
 
-BitcoinScraper.s: BitcoinScraper.cpp.s
+Scraper.s: Scraper.cpp.s
 
-.PHONY : BitcoinScraper.s
+.PHONY : Scraper.s
 
 # target to generate assembly for a file
-BitcoinScraper.cpp.s:
-	$(MAKE) -f CMakeFiles/BTCBlockchainScraper.dir/build.make CMakeFiles/BTCBlockchainScraper.dir/BitcoinScraper.cpp.s
-.PHONY : BitcoinScraper.cpp.s
+Scraper.cpp.s:
+	$(MAKE) -f CMakeFiles/BTCBlockchainScraper.dir/build.make CMakeFiles/BTCBlockchainScraper.dir/Scraper.cpp.s
+.PHONY : Scraper.cpp.s
 
 main.o: main.cpp.o
 
@@ -186,9 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... BTCBlockchainScraper"
-	@echo "... BitcoinScraper.o"
-	@echo "... BitcoinScraper.i"
-	@echo "... BitcoinScraper.s"
+	@echo "... Scraper.o"
+	@echo "... Scraper.i"
+	@echo "... Scraper.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

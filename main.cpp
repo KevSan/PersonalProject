@@ -4,7 +4,7 @@
 #include <sstream>
 #include <pqxx/pqxx>
 
-#include "BitcoinScraper.cpp"
+#include "Scraper.cpp"
 
 using namespace std;
 

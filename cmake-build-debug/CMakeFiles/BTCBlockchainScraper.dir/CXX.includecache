@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kevin/CLionProjects/BTCBlockchainScraper/BitcoinScraper.cpp
+BitcoinScraper.h
+/home/kevin/CLionProjects/BTCBlockchainScraper/BitcoinScraper.h
+iostream
+-
+pqxx/pqxx
+-
+string
+-
+sstream
+-
+stdlib.h
+-
+
+/home/kevin/CLionProjects/BTCBlockchainScraper/BitcoinScraper.h
+iostream
+-
+string
+-
+pqxx/pqxx
+-
+
+/home/kevin/CLionProjects/BTCBlockchainScraper/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+pqxx/pqxx
+-
+BitcoinScraper.cpp
+/home/kevin/CLionProjects/BTCBlockchainScraper/BitcoinScraper.cpp
+

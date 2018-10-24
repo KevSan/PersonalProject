@@ -1,0 +1,23 @@
+INSTALLATION:
+
+    sudo apt-get -y install libpqxx-dev
+
+POSTGRES:
+
+    In order to enter the psql terminal, type "psql" into the terminal
+
+    In order to view the test table, type "select * from test;"
+
+
+BitcoinScraper:
+
+    In order to run the code, change to the code's directory and type:
+        "g++ main.cpp -o test -lpqxx -lpq"
+
+    Then type:
+        "./test"
+
+
+
+credit to https://www.jeremymorgan.com/tutorials/c-programming/how-to-capture-the-output-of-a-linux-command-in-c/
+for the function that captures the output from a given terminal command

@@ -11,7 +11,19 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6876055e-6630-4ac9-a21c-434fbf5a8d43" name="Default" comment="" />
+    <list default="true" id="6876055e-6630-4ac9-a21c-434fbf5a8d43" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/BitcoinScraper.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Scraper.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BitcoinScraper.h" beforeDir="false" afterPath="$PROJECT_DIR$/Scraper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BTCBlockchainScraper.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BTCBlockchainScraper.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BTCBlockchainScraper.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BTCBlockchainScraper.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BTCBlockchainScraper.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BTCBlockchainScraper.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BTCBlockchainScraper.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BTCBlockchainScraper.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BTCBlockchainScraper.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BTCBlockchainScraper.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,8 +65,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BitcoinScraper.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BitcoinScraper.cpp">
+      <file leaf-file-name="Scraper.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Scraper.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="104" column="56" selection-start-line="104" selection-start-column="56" selection-end-line="104" selection-end-column="81" />
@@ -65,8 +77,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BitcoinScraper.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BitcoinScraper.h">
+      <file leaf-file-name="Scraper.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scraper.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
@@ -106,6 +118,7 @@
         <option value="$PROJECT_DIR$/.keys" />
         <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/BitcoinScraper.cpp" />
+        <option value="$PROJECT_DIR$/Scraper.cpp" />
       </list>
     </option>
   </component>
@@ -193,7 +206,7 @@
       <workItem from="1537054603294" duration="485000" />
       <workItem from="1537067392988" duration="38000" />
       <workItem from="1537067877653" duration="131000" />
-      <workItem from="1540409201851" duration="331000" />
+      <workItem from="1540409201851" duration="718000" />
     </task>
     <task id="LOCAL-00001" summary="-began setting the ground work for the enterInDB() function">
       <created>1523836300069</created>
@@ -220,7 +233,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37350000" />
+    <option name="totallyTimeSpent" value="37737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1209" height="978" extended-state="6" />
@@ -290,7 +303,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitcoinScraper.cpp">
+    <entry file="file://$PROJECT_DIR$/Scraper.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
@@ -310,7 +323,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitcoinScraper.h">
+    <entry file="file://$PROJECT_DIR$/Scraper.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
@@ -327,7 +340,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitcoinScraper.cpp">
+    <entry file="file://$PROJECT_DIR$/Scraper.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
@@ -344,7 +357,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitcoinScraper.cpp">
+    <entry file="file://$PROJECT_DIR$/Scraper.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
@@ -368,7 +381,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitcoinScraper.cpp">
+    <entry file="file://$PROJECT_DIR$/Scraper.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
@@ -378,7 +391,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitcoinScraper.h">
+    <entry file="file://$PROJECT_DIR$/Scraper.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
@@ -423,14 +436,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitcoinScraper.cpp">
+    <entry file="file://$PROJECT_DIR$/Scraper.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitcoinScraper.h">
+    <entry file="file://$PROJECT_DIR$/Scraper.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
@@ -451,14 +464,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitcoinScraper.cpp">
+    <entry file="file://$PROJECT_DIR$/Scraper.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitcoinScraper.h">
+    <entry file="file://$PROJECT_DIR$/Scraper.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
@@ -498,7 +511,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitcoinScraper.cpp">
+    <entry file="file://$PROJECT_DIR$/Scraper.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
@@ -508,7 +521,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitcoinScraper.h">
+    <entry file="file://$PROJECT_DIR$/Scraper.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
@@ -546,14 +559,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitcoinScraper.cpp">
+    <entry file="file://$PROJECT_DIR$/Scraper.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitcoinScraper.h">
+    <entry file="file://$PROJECT_DIR$/Scraper.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
@@ -574,14 +587,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitcoinScraper.cpp">
+    <entry file="file://$PROJECT_DIR$/Scraper.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitcoinScraper.h">
+    <entry file="file://$PROJECT_DIR$/Scraper.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
@@ -628,7 +641,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitcoinScraper.h">
+    <entry file="file://$PROJECT_DIR$/Scraper.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
@@ -662,7 +675,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BitcoinScraper.cpp">
+    <entry file="file://$PROJECT_DIR$/Scraper.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="104" column="56" selection-start-line="104" selection-start-column="56" selection-end-line="104" selection-end-column="81" />

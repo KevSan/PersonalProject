@@ -9,7 +9,7 @@ POSTGRES:
     In order to view the test table, type "select * from test;"
 
 
-BitcoinScraper:
+Scraper:
 
     In order to run the code, change to the code's directory and type:
         "g++ main.cpp -o test -lpqxx -lpq"
